@@ -1,0 +1,394 @@
+{
+  "_last_updated": "2024-04-14",
+  "_comment": "This file caches H-index values to avoid recalculation. It will be populated automatically as papers are analyzed.",
+  "Nurul Rafi": {
+    "name": "N. Rafi",
+    "h_index": 1,
+    "paper_count": 4
+  },
+  "Abhishek Tyagi": {
+    "name": "A. Tyagi",
+    "h_index": 23,
+    "paper_count": 68
+  },
+  "Johannes Sahlmann": {
+    "name": "J. Sahlmann",
+    "h_index": 28,
+    "paper_count": 150
+  },
+  "Pablo Rivas": {
+    "name": "P. Rivas",
+    "h_index": 23,
+    "paper_count": 44
+  },
+  "Pablo G\u00f3mez": {
+    "name": "P. G\u00f3mez",
+    "h_index": 15,
+    "paper_count": 84
+  },
+  "Reiley Jeyapaul": {
+    "name": "Reiley Jeyapaul",
+    "h_index": 10,
+    "paper_count": 25
+  },
+  "Chuteng Zhu": {
+    "name": "Chuteng Zhu",
+    "h_index": 0,
+    "paper_count": 1
+  },
+  "Paul Whatmough": {
+    "name": "P. Whatmough",
+    "h_index": 29,
+    "paper_count": 92
+  },
+  "Nuzhat Prova": {
+    "name": "N. Prova",
+    "h_index": 2,
+    "paper_count": 11
+  },
+  "Yuhao Zhu": {
+    "name": "Yu Cheng",
+    "h_index": 54,
+    "paper_count": 394
+  },
+  "Razieh Nabi": {
+    "name": "Razieh Nabi",
+    "h_index": 11,
+    "paper_count": 24
+  },
+  "Mark J. van der Laan": {
+    "name": "M. J. van der Laan",
+    "h_index": 54,
+    "paper_count": 227
+  },
+  "Nima S. Hejazi": {
+    "name": "N. Hejazi",
+    "h_index": 18,
+    "paper_count": 70
+  },
+  "David Benkeser": {
+    "name": "David C. Benkeser",
+    "h_index": 20,
+    "paper_count": 71
+  },
+  "Viny Saajan Victor": {
+    "name": "Viny Saajan Victor",
+    "h_index": 2,
+    "paper_count": 6
+  },
+  "Andre Schmei\u00dfer": {
+    "name": "Andre Schmei\u00dfer",
+    "h_index": 3,
+    "paper_count": 17
+  },
+  "Talaya Farasat": {
+    "name": "Talaya Farasat",
+    "h_index": 2,
+    "paper_count": 10
+  },
+  "Joachim Posegga": {
+    "name": "J. Posegga",
+    "h_index": 17,
+    "paper_count": 108
+  },
+  "Lilia Lazli": {
+    "name": "L. Lazli",
+    "h_index": 6,
+    "paper_count": 27
+  },
+  "Simone Gramsch": {
+    "name": "Simone Gramsch",
+    "h_index": 4,
+    "paper_count": 17
+  },
+  "Heike Leitte": {
+    "name": "H. Leitte",
+    "h_index": 23,
+    "paper_count": 72
+  },
+  "Fanyang Mo": {
+    "name": "F. Mo",
+    "h_index": 29,
+    "paper_count": 92
+  },
+  "Hao Xu": {
+    "name": "Hao Xu",
+    "h_index": 48,
+    "paper_count": 190
+  },
+  "Dongxiao Zhang": {
+    "name": "Dongxiao Zhang",
+    "h_index": 65,
+    "paper_count": 373
+  },
+  "Wenchao Wu": {
+    "name": "Wenjie Zhu",
+    "h_index": 35,
+    "paper_count": 291
+  },
+  "Bachana Anasashvili": {
+    "name": "Bachana Anasashvili",
+    "h_index": 0,
+    "paper_count": 1
+  },
+  "Vahidin Jeleskovic": {
+    "name": "Vahidin Jeleskovic",
+    "h_index": 5,
+    "paper_count": 29
+  },
+  "Jiahan Ren": {
+    "name": "Jiahan Ren",
+    "h_index": 1,
+    "paper_count": 1
+  },
+  "Zhaopeng Feng": {
+    "name": "Zhaopeng Feng",
+    "h_index": 4,
+    "paper_count": 6
+  },
+  "Shaosheng Cao": {
+    "name": "Shaosheng Cao",
+    "h_index": 6,
+    "paper_count": 12
+  },
+  "Jiayuan Su": {
+    "name": "Jia-Min Su",
+    "h_index": 9,
+    "paper_count": 21
+  },
+  "Ruizhe Chen": {
+    "name": "R. Liu",
+    "h_index": 85,
+    "paper_count": 2957
+  },
+  "Zuozhu Liu": {
+    "name": "Zuozhu Liu",
+    "h_index": 16,
+    "paper_count": 38
+  },
+  "Zhe Xu": {
+    "name": "Zhenci Xu",
+    "h_index": 27,
+    "paper_count": 59
+  },
+  "Jian Wu": {
+    "name": "Xiaojian Wu",
+    "h_index": 34,
+    "paper_count": 159
+  },
+  "Yan Zhang": {
+    "name": "Yanyun Zhang",
+    "h_index": 36,
+    "paper_count": 120
+  },
+  "Yao Hu": {
+    "name": "Yuan Yao",
+    "h_index": 38,
+    "paper_count": 143
+  },
+  "Alisher Zhunuskanov": {
+    "name": "Alisher Zhunuskanov",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Aknur Sakan": {
+    "name": "Sakan Aknur-Student",
+    "h_index": 0,
+    "paper_count": 1
+  },
+  "Almat Akhmetali": {
+    "name": "Almat Akhmetali",
+    "h_index": 1,
+    "paper_count": 8
+  },
+  "Marat Zaidyn": {
+    "name": "Marat Zaidyn",
+    "h_index": 1,
+    "paper_count": 3
+  },
+  "Timur Namazbayev": {
+    "name": "T. Namazbayev",
+    "h_index": 3,
+    "paper_count": 7
+  },
+  "Nurzhan Ussipov": {
+    "name": "N. Ussipov",
+    "h_index": 2,
+    "paper_count": 15
+  },
+  "Dana Turlykozhayeva": {
+    "name": "D. Turlykozhayeva",
+    "h_index": 3,
+    "paper_count": 11
+  },
+  "Noah Balthasar": {
+    "name": "Noah Balthasar",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Hannes Wallimann": {
+    "name": "Hannes Wallimann",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Zheng-Meng Zhai": {
+    "name": "Zheng-Meng Zhai",
+    "h_index": 6,
+    "paper_count": 21
+  },
+  "Jun-Yin Huang": {
+    "name": "Shengyi Huang",
+    "h_index": 8,
+    "paper_count": 16
+  },
+  "Vassilios Kovanis": {
+    "name": "V. Kovanis",
+    "h_index": 30,
+    "paper_count": 194
+  },
+  "Ying-Cheng Lai": {
+    "name": "Y. Lai",
+    "h_index": 70,
+    "paper_count": 620
+  },
+  "Benjamin W. Keller": {
+    "name": "B. Keller",
+    "h_index": 22,
+    "paper_count": 58
+  },
+  "Mst Shamima Khanom": {
+    "name": "Mst. Shamima Khanom",
+    "h_index": 2,
+    "paper_count": 8
+  },
+  "Shitanshu Bhushan": {
+    "name": "Shitanshu Bhushan",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Lajanugen Logeswaran": {
+    "name": "Lajanugen Logeswaran",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Grant D Murphy": {
+    "name": "Grant D Murphy",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Muhammad Khalifa": {
+    "name": "Muhammad Khalifa",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Honglak Lee": {
+    "name": "Honglak Lee",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Yunxiang Zhang": {
+    "name": "Yunxiang Zhang",
+    "h_index": 19,
+    "paper_count": 35
+  },
+  "Jaekyeom Kim": {
+    "name": "Jaekyeom Kim",
+    "h_index": 8,
+    "paper_count": 15
+  },
+  "Moontae Lee": {
+    "name": "Moontae Lee",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Lu Wang": {
+    "name": "Wang-jin Lu",
+    "h_index": 50,
+    "paper_count": 155
+  },
+  "Jeffrey T. Paci": {
+    "name": "Jeffrey T. Paci",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Robert J. Appleton": {
+    "name": "Robert J. Appleton",
+    "h_index": 3,
+    "paper_count": 5
+  },
+  "Megan J. McCarthy": {
+    "name": "Megan J. McCarthy",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Kui Lin": {
+    "name": "K. Lin-Wang",
+    "h_index": 34,
+    "paper_count": 77
+  },
+  "Horacio D. Espinosa": {
+    "name": "H. Espinosa",
+    "h_index": 71,
+    "paper_count": 366
+  },
+  "Alejandro Strachan": {
+    "name": "A. Strachan",
+    "h_index": 43,
+    "paper_count": 380
+  },
+  "Yue Zhang": {
+    "name": "Yuewei Zhang",
+    "h_index": 53,
+    "paper_count": 207
+  },
+  "Subramanian K. R. S. Sankaranarayanan": {
+    "name": "Subramanian K. R. S. Sankaranarayanan",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Saeid Jamshidi": {
+    "name": "Saeid Jamshidi",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Kawser Wazed Nafi": {
+    "name": "Kawser Wazed Nafi",
+    "h_index": 8,
+    "paper_count": 19
+  },
+  "Foutse Khomh": {
+    "name": "Foutse Khomh",
+    "h_index": 44,
+    "paper_count": 361
+  },
+  "Amin Nikanjam": {
+    "name": "Amin Nikanjam",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Gagan B. Mohanty": {
+    "name": "Gagan B. Mohanty",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Kangkan Goswami": {
+    "name": "Kangkan Goswami",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Suraj Prasad": {
+    "name": "Suraj Prasad",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Raghunath Sahoo": {
+    "name": "Raghunath Sahoo",
+    "h_index": 0,
+    "paper_count": 0
+  },
+  "Neelkamal Mallick": {
+    "name": "N. Mallick",
+    "h_index": 18,
+    "paper_count": 183
+  }
+}

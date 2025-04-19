@@ -1,0 +1,121 @@
+{
+  "patent_keywords": {
+    "novel": 3,
+    "method": 2, 
+    "system": 2,
+    "apparatus": 3,
+    "device": 2,
+    "improving": 2,
+    "improved": 2,
+    "enhancement": 2,
+    "innovative": 3,
+    "invention": 4,
+    "approach": 1,
+    "solution": 2,
+    "technical": 1,
+    "prototype": 3,
+    "implementation": 2
+  },
+  "industry_keywords": {
+    "industry": 2,
+    "commercial": 3,
+    "enterprise": 2,
+    "business": 2,
+    "market": 2,
+    "product": 3,
+    "production": 2,
+    "manufacturing": 3,
+    "deployment": 2,
+    "real-world": 2,
+    "cost-effective": 3,
+    "application": 1,
+    "scalable": 2,
+    "practical": 2,
+    "startup": 3
+  },
+  "market_sectors": {
+    "healthcare": 3,
+    "finance": 3,
+    "fintech": 4,
+    "energy": 3,
+    "transportation": 3,
+    "robotics": 4,
+    "security": 3,
+    "cybersecurity": 4,
+    "agriculture": 3,
+    "retail": 2,
+    "manufacturing": 3,
+    "education": 2,
+    "autonomous": 4,
+    "sustainable": 3,
+    "renewable": 3
+  },
+  "prominent_authors": {
+    "Yoshua Bengio": 115, 
+    "Geoffrey Hinton": 130,
+    "Yann LeCun": 125,
+    "Andrew Ng": 100,
+    "Fei-Fei Li": 95,
+    "Ian Goodfellow": 85,
+    "Andrej Karpathy": 70,
+    "Jeff Dean": 90,
+    "Demis Hassabis": 65,
+    "Kaiming He": 80
+  },
+  "patent_potential": {
+    "weight": 0.3,
+    "keywords": [
+      "patent", "invention", "novel method", "proprietary", "intellectual property",
+      "technology transfer", "commercialization", "innovation", "prototype",
+      "product development", "industrial application", "methodology", "technique",
+      "algorithm", "new approach", "framework", "system", "solution", "platform"
+    ]
+  },
+  "industry_relevance": {
+    "weight": 0.4,
+    "keywords": [
+      "industry", "business", "commercial", "market", "company", "enterprise",
+      "startup", "production", "manufacturing", "deployment", "implementation",
+      "practical application", "real-world", "use case", "customer", "client",
+      "product", "service", "solution", "venture", "monetization", "revenue"
+    ]
+  },
+  "market_sectors": {
+    "healthcare": [
+      "healthcare", "medical", "clinical", "patient", "diagnosis", "treatment",
+      "hospital", "physician", "pharma", "drug discovery", "biomedical", "health"
+    ],
+    "finance": [
+      "finance", "banking", "investment", "trading", "financial", "economy",
+      "economic", "stock market", "insurance", "risk assessment", "credit"
+    ],
+    "education": [
+      "education", "learning", "student", "teaching", "school", "academic",
+      "university", "training", "curriculum", "educational", "e-learning"
+    ],
+    "transportation": [
+      "transportation", "automotive", "vehicle", "car", "truck", "fleet",
+      "autonomous driving", "traffic", "mobility", "logistics", "navigation"
+    ],
+    "manufacturing": [
+      "manufacturing", "factory", "industrial", "supply chain", "production",
+      "assembly", "quality control", "automation", "robotics", "manufacturing process"
+    ],
+    "energy": [
+      "energy", "power", "electricity", "grid", "renewable", "solar", "wind",
+      "battery", "storage", "sustainable", "efficiency", "conservation"
+    ],
+    "retail": [
+      "retail", "e-commerce", "consumer", "product", "shopping", "customer",
+      "store", "merchandise", "inventory", "sales", "purchasing", "commerce"
+    ],
+    "agriculture": [
+      "agriculture", "farming", "crop", "livestock", "food production",
+      "agricultural", "farm", "harvest", "yield prediction", "sustainable farming"
+    ],
+    "security": [
+      "security", "cybersecurity", "privacy", "encryption", "authentication",
+      "protection", "threat detection", "vulnerability", "defense", "surveillance"
+    ]
+  }
+}
