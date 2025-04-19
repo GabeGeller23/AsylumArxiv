@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useMutation, useQueryClient } from 'react-query';
 
-const API_URL = 'http://localhost:3003';
+const API_URL = 'https://asylum-arxiv.vercel.app';
 
 const RunButton = () => {
   const [isRunning, setIsRunning] = useState(false);

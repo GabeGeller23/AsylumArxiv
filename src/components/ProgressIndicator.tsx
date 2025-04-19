@@ -14,7 +14,7 @@ const ProgressIndicator: React.FC<ProgressIndicatorProps> = ({ isVisible = true,
     if (!isVisible) return;
     
     // Initialize Socket.IO connection to the server
-    const socket = io('http://localhost:3003');
+    const socket = io('https://asylum-arxiv.vercel.app');
 
     // Connection established
     socket.on('connect', () => {

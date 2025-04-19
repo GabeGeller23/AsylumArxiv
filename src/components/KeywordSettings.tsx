@@ -27,7 +27,7 @@ const KeywordSettings: React.FC<KeywordSettingsProps> = ({ onClose, onSuccess })
   const [error, setError] = useState<string | null>(null);
   const [newKeyword, setNewKeyword] = useState('');
   const [newWeight, setNewWeight] = useState(3);
-  const [apiUrl, setApiUrl] = useState<string>('http://localhost:3003');
+  const [apiUrl, setApiUrl] = useState<string>('https://asylum-arxiv.vercel.app');
 
   useEffect(() => {
     fetchKeywords();

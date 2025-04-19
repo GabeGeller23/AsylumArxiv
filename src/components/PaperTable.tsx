@@ -9,7 +9,7 @@ import { io } from 'socket.io-client';
 
 // Constants
 const DEFAULT_MONTH = new Date().toISOString().substring(0, 7); // Current month in YYYY-MM format
-const DEFAULT_API_URL = 'http://localhost:3003';
+const DEFAULT_API_URL = 'https://asylum-arxiv.vercel.app';
 
 // Cache for paper data to avoid refetching
 const paperCache = new Map();
